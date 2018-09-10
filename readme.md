@@ -14,11 +14,11 @@ Somos guiados pelo pensamento de que não somos apenas “fazedores de site”, 
 Referência no mercado nacional e internacional de produção digital, visando maior dedicação em projetos internos.
 
 ### Valores
--- Transparência e ética como base de nosso relacionamento com clientes, parceiros e fornecedores.
--- Gestão horizontal, mostrando que todos tem papel fundamental no crescimento da empresa.
--- Atenção e cuidado ao projeto do cliente, como se fosse feito algo para nós mesmos. Sempre que pudermos entregar o “algo mais”, devemos fazê-lo para consolidar esta imagem de parceria.
--- Nossos princípios éticos devem prevalecer, acima de qualquer questão financeira, guiando as ações da empresa.
--- Utilidade: ser uma marca que cria produtos e serviços úteis.
+- Transparência e ética como base de nosso relacionamento com clientes, parceiros e fornecedores.
+- Gestão horizontal, mostrando que todos tem papel fundamental no crescimento da empresa.
+- Atenção e cuidado ao projeto do cliente, como se fosse feito algo para nós mesmos. Sempre que pudermos entregar o “algo mais”, devemos fazê-lo para consolidar esta imagem de parceria.
+- Nossos princípios éticos devem prevalecer, acima de qualquer questão financeira, guiando as ações da empresa.
+- Utilidade: ser uma marca que cria produtos e serviços úteis.
 
 
 ## Iniciando os trabalhos
