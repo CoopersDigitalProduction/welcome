@@ -1,6 +1,6 @@
-# Seja bem-vindo(a) à Coopers Digital Production!
 ![Marca da Coopers](http://www.coopers.pro/assets/img/coopers-brand.png)
 
+# Sejam bem-vindos à Coopers Digital Production!
 Ficamos muito felizes em ter você como parte de nossa equipe e, para que tenha o maior proveito de nossa estrutura, aconselhamos iniciar com algumas leituras importantes.
 
 ## Missão, Visão e Valores
