@@ -24,6 +24,12 @@ Referência no mercado nacional e internacional de produção digital, visando m
 
 ## Iniciando os trabalhos
 
+### Ferramentas 
+- [G Suite](https://gsuite.google.com/) - Utilizamos as ferramentas do Google para gestão de nossas informações, documentos e e-mails.
+- [Ora](http://ora.pm) - Nossa ferramenta de gestão de projetos. Criamos toda as atividades, com suas informações e detalhes necessários para execução, além de fazemos a gestão de produtividade e horas entregues por nossos colaboradores.
+- [Bitbucket](https://bitbucket.org/) - Fazemos o controle de versão de nossos projetos pelo Git no Bitbucket.
+- [Slack](http://slack.com/) - Toda a comunicação interna da Coopers é feita através de nosso _workspace_ no Slack.
+
 ### O que é o front-end development?
 Para fundamentar o trabalho do desenvolvedor front-end, criamos uma documentação os principais conceitos que regem nosso trabalho: [Front-end Development](http://frontenddevelopment.com.br/front-end-development/)
 
