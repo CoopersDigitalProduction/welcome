@@ -31,7 +31,7 @@ Referência no mercado nacional e internacional de produção digital, visando m
 - [Slack](http://slack.com/) - Toda a comunicação interna da Coopers é feita através de nosso _workspace_ no Slack.
 
 ### O que é o front-end development?
-Para fundamentar o trabalho do desenvolvedor front-end, criamos uma documentação os principais conceitos que regem nosso trabalho: [Front-end Development](http://frontenddevelopment.com.br/front-end-development/)
+Para fundamentar o trabalho do desenvolvedor front-end, criamos uma documentação os principais conceitos que regem nosso trabalho: [Front-end Development](https://web.archive.org/web/20181225021447/http://frontenddevelopment.com.br/front-end-development/)
 
 ### Leitura recomendada
 - [Conceitos básicos sobre HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
