@@ -1,6 +1,6 @@
 ![Marca da Coopers](http://www.coopers.pro/assets/img/coopers-brand.png)
 
-_Fast, flexible, trustful._
+#_Fast, flexible, trustful._#
 
 ## Missão, Visão e Valores
 Toda empresa deve ter diretrizes que guiem todos os seus trabalhos e relacionamentos, por isso é importante que todos tenhamos os mesmos princípios para que a Coopers seja sempre reconhecida pela qualidade e atenção com os clientes.
