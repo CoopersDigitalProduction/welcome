@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://www.coopers.pro/assets/img/coopers-brand.png" alt="Marca da Coopers" />
+  <img src="https://coopers.pro/assets/img/coopers-brand.png" alt="Marca da Coopers" />
 </p>
 
 <p align="center">
